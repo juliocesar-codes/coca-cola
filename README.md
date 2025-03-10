@@ -10,4 +10,4 @@ O site foi desenvolvido utilizando boas práticas, como por exemplo tags semânt
 * Media Queries
 
 ## Autor 
-[Julio Cesar](https://www.linkedin.com/in/julio-cesar-santana-alves-090723349/)
+[Julio Cesar Santana Alves](https://www.linkedin.com/in/julio-cesar-santana-alves-090723349/)
